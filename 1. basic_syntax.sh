@@ -25,6 +25,9 @@ cd /home/jangjunhyeok/junhyeok_dir
 # 상위 폴더로 이동
 cd ..
 
+# 직전에 있었던 위치로 이동
+cd -
+
 # 비어있는 파일 만들기
 touch first_file.txt
 
